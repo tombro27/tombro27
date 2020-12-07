@@ -10,9 +10,9 @@
   - Gaming 
   - Writing
 - My social accounts:
-  - [Linkedin] (https://www.linkedin.com/in/tombro27) :necktie:
-  - [Medium] (https://medium.com/@prakharsinghtomar) :bulb:	:writing_hand:
-  - [Kaggle] (https://www.kaggle.com/prakharsinghtomar) :nerd_face:
+  - :necktie: [Linkedin](https://www.linkedin.com/in/tombro27)
+  - :bulb:	:writing_hand: [Medium](https://medium.com/@prakharsinghtomar)
+  - :nerd_face:[Kaggle](https://www.kaggle.com/prakharsinghtomar)
 
 [![Prakhar's github stats](https://github-readme-stats.vercel.app/api?username=tombro27&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
