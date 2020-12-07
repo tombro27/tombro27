@@ -18,8 +18,8 @@
 
 ### Please have a look at
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@prakharsinghtomar/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@prakharsinghtomar/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@prakharsinghtomar/0" alt="Recent Article 0">
   
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@prakharsinghtomar/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@prakharsinghtomar/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@prakharsinghtomar/1" alt="Recent Article 1">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tombro27)](https://github.com/anuraghazra/github-readme-stats)
